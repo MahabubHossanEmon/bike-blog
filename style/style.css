@@ -1,3 +1,13 @@
+.latest{
+    margin-bottom: 30px;
+}
 .card{
     margin-right:20px!important;
     }
+#client-color{
+    color: rgb(228, 136, 14);
+}
+.fa-color{
+color: rgb(228, 136, 14);
+
+}
